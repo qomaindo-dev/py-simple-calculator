@@ -1,2 +1,8 @@
 # py-simple-calculator
-Simple calculator in Python
+Simple Calculator in Python
+
+Feature:
+- Addition
+- Subtraction
+- Multiplication
+- Distribution
